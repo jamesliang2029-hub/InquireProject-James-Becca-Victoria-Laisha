@@ -1,13 +1,18 @@
 <html>
-    <header>Saftey Paws Rescue</header>
+    <head>
+        <title>homepage</title>
+    </head>
     <body>
-        <img src="place holder" alt="place holder"/>
-        <p> place holder</p>
-        <botton> call to action</botton>
-        <img src="place holder" alt="place holder"
-        <img src="place holder" alt="place holder"
-        <img src="place holder" alt="place holder"
-        <img src="place holder" alt="place holder"
+        <header>Saftey Paws Rescue</header>
+        <main>
+            <img src="place holder" alt="place holder"/>
+            <p> place holder</p>
+            <button> call to action</button>
+            <img src="place holder" alt="place holder"
+            <img src="place holder" alt="place holder"
+            <img src="place holder" alt="place holder"
+            <img src="place holder" alt="place holder"
+        </main>
     </body>
     <footer> 
         <p>"Help?"</p>
