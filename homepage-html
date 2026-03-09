@@ -10,13 +10,14 @@
             <button> call to action</button>
             <img src="place holder" alt="place holder"
             <img src="place holder" alt="place holder"
-            <img src="place holder" alt="place holder"
+            <img src="plant.jpg" alt="olive branch photo by Heather Newsom"/>
             <img src="corgi.jpg" alt="happy corgi photo by Alval Nee"/>
         </main>
     </body>
     <footer> 
         <p>"Help?"</p>
-        <input type="text" placeholder="..."/>
+        <img src="plant.jpg" alt="olive branch photo by Heather Newsom"/>
+            <img src="corgi.jpg" alt="happy corgi photo by Alval Nee"/>
       <p>place holder</p>
     </footer>
 </html>
